@@ -1,0 +1,58 @@
+[
+    {
+        "id": 0,
+        "customerName": "Jenil",
+        "phoneNumber": 8141078090,
+        "address": "Phoenix, Arizona",
+        "loanAmount": 250,
+        "interest": 6,
+        "loanTermYears": 48,
+        "loanType": "Student Loan",
+        "description": "Student Loan for M.S IT at ASU"
+    }
+    ,
+    {
+        "id": 1,
+        "customerName": "Milan",
+        "phoneNumber": 9909111286,
+        "address": "Gandhinagar, India",
+        "loanAmount": 350,
+        "interest": 12,
+        "loanTermYears": 120,
+        "loanType": "Home Loan",
+        "description": "Buying an apartment in Gandhinagar"
+    },
+    {
+        "id": 2,
+        "customerName": "Prithu",
+        "phoneNumber": 7408029003,
+        "address": "Ahmedabad, India",
+        "loanAmount": 450,
+        "interest": 8,
+        "loanTermYears": 60,
+        "loanType": "Car Loan",
+        "description": "Buying a Cheverolet Camero"
+    },
+    {
+        "id": 3,
+        "customerName": "Aayush",
+        "phoneNumber": 7435050885,
+        "address": "Abu Dhabi, UAE",
+        "loanAmount": 700,
+        "interest": 7,
+        "loanTermYears": 48,
+        "loanType": "Business Loan",
+        "description": "For opening a car garage "
+    },
+    {
+        "id": 5,
+        "customerName": "Dholu",
+        "phoneNumber": 6354265412,
+        "address": "Delvad, India",
+        "loanAmount": 750,
+        "interest": 14,
+        "loanTermYears": 72,
+        "loanType": "Industrial Loan",
+        "description": "For establishing a steel pipes factory"
+    }
+]
